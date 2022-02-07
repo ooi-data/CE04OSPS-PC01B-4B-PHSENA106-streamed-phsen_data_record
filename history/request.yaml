@@ -1,5 +1,5 @@
-data_ready: true
+data_ready: false
 data_stream: CE04OSPS-PC01B-4B-PHSENA106-streamed-phsen_data_record
-last_request: '2022-01-21T17:48:02.224662Z'
+last_request: '2022-02-07T17:17:16.740837Z'
 response: https://raw.githubusercontent.com/ooi-data/CE04OSPS-PC01B-4B-PHSENA106-streamed-phsen_data_record/main/history/response.json
-status: success
+status: pending
